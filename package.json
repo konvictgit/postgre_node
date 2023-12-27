@@ -1,0 +1,15 @@
+{
+  "name": "postgre",
+  "version": "1.0.0",
+  "description": "no idea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  }
+}
